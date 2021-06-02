@@ -10,7 +10,7 @@ pytz == 2018.3
 pandas == 0.23.0
 MonthDelta == 0.9.1
 requests == 2.18.4
-urllib3 == 1.22
+urllib3 == 1.26.5
 flask == 0.12.2
 numpy == 1.14.2
 passlib == 1.7.1
